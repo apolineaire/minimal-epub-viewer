@@ -31,4 +31,4 @@ Ont été supprimés :
 * barre de menu en #477E54
 
 
-**Voir le dépôt de Readium à cette [adresse]**
+**Voir le dépôt de Readium à cette [adresse](https://github.com/readium/readium-js-viewer)**
