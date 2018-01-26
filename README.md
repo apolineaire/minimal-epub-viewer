@@ -4,7 +4,6 @@ Le [Readium-js-viewer](https://github.com/readium/readium-js-viewer) est un lect
 
 Cette version "amputée" du reader JS de Readium contient entre autres :
 
-- une interface repensée pour les seuls besoins des lecteurs
 - des menus élagués 
 - une traduction française plus complète des menus
 - quelques changements mineurs de design
@@ -17,7 +16,7 @@ Ont été supprimés :
 * suppression de la possibilité de supprimer un epub dans le mode list 
 * suppression de la list-view dans le menu 
 * suppression de la possibilité d’ajouter manuellement un epub
-* réduction du nombre de polices disponibles et modification de leur nom (« Police du livre » = celle de l’epub, « police plus lisible »= OpenDyslexic, Noto Serif)
+* réduction du nombre de polices disponibles et modification de leur nom (« Police du livre » = celle de l’epub, « police plus lisible » = OpenDyslexic, Noto Serif)
 * réduction du nombre de thèmes à 3 (celui du livre, mode nuit, sable)
 * font des menus en Noto Serif
 * suppression de la possibilité de passer en mode scroll/web 
